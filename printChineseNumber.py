@@ -4,6 +4,7 @@
 输入：千万以下整数，值域[0,99999999]
 输出：中文大写数字
 
+It was written by Chalene Yuan, who can be contacted via chalene.yuan[at]gmail.com
 '''
 d={0:'零',1:'壹',2:'贰',3:'叁',4:'肆',5:'伍',6:'陆',7:'柒',8:'捌',9:'玖'}
 unit = {0:'',1:'拾',2:'佰',3:'仟',4:'万'}
